@@ -12,3 +12,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=LightHostingFree&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1146756653505593441)](https://discord.com/users/1146756653505593441)
+
